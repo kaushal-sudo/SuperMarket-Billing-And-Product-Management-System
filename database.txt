@@ -1,1 +1,5 @@
  5 kaka 50 5
+ 1 soap 10 0
+ 2 biscuits 30 5
+ 3 Namkeen 50 4
+ 4 Snacks 60 3
