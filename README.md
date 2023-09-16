@@ -28,5 +28,8 @@ This C++ project is designed to manage a supermarket's product inventory and han
 ## SCREENSHOTS
 ![image](https://github.com/kaushal-sudo/SuperMarket-Billing-And-Product-Management-System/assets/65699482/f2bab3f5-cfd3-4dd7-947b-1a42785f2367)
 
+![image](https://github.com/kaushal-sudo/SuperMarket-Billing-And-Product-Management-System/assets/65699482/1f027941-02ef-4077-9585-d495073ee50e)
+
+
 
 
