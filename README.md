@@ -22,5 +22,11 @@ This C++ project is designed to manage a supermarket's product inventory and han
 
 
 2. Run the program: Execute the compiled binary.
+3. Now As a Administrator first you have to singin as Emial: kaushal@gmail.com Pass:kaushal@123.
+4. Now you can access the administrator function such as ADD,DELETE,MODIFY.
+
+## SCREENSHOTS
+![image](https://github.com/kaushal-sudo/SuperMarket-Billing-And-Product-Management-System/assets/65699482/f2bab3f5-cfd3-4dd7-947b-1a42785f2367)
+
 
 
